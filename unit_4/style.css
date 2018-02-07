@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Roboto:300,400');
+
+body {
+	text-align: left;
+}
+
+h1, h2, h3, h4, p, a{
+	font-family: Roboto, sans-serif;
+	font-weight: normal;
+	text-align: center;
+}
+
+h1{
+	font-family: Pacifico;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h2{
+	font-size: 20px;
+}
+
+h3{
+	font-size: 18px;
+	text-align: center;
+	font-weight: lighter;
+}
+
+h2 {
+
+}
+
+h3 {}
+
+#slogan {
+	font-weight: bold;	
+}
+
+
+p {
+	font-weight: lighter; 
+}
+
+
+a {
+	font-style: bold;
+	text-decoration: underline;
+	font-size=12px;
+}
